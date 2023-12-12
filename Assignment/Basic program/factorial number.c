@@ -5,6 +5,7 @@ int main(){
 	int i,num,fact=1;
 	printf("enter the number to find the factorial:");
 	scanf("%d",&num);
+//	for first your start point; define ypur end ,opertaor(--,++)
 	for(i=1;i<=num;i++)
 	{
 		fact = fact*i;

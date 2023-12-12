@@ -6,6 +6,11 @@ int main(){
 	printf("address : Bharuch");
 	
 }
+
+name : yesha
+age : 27
+dob : 21/02/1993
+address : Bharuch
 	
-	
+
 

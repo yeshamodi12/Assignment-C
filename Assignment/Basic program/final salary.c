@@ -3,7 +3,7 @@
 //10% loan installment find out of remaining salary.
 //ins= salary*10/100
 //loan = salary*10/100
-//final sal = salary-ins-loan
+//final sal = salary-ins-loan;
 
 #include<stdio.h>
 int main(){
